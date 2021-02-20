@@ -1,6 +1,6 @@
 # Quiz App
 
-THis project is a quiz app built with HTML, CSS and JAVASCRIPT. 
+This project is a quiz app built with HTML, CSS and JAVASCRIPT. 
 
 ## Installation
 
